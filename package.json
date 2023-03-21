@@ -1,0 +1,31 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@solana/wallet-adapter-base": "^0.9.22",
+    "@solana/wallet-adapter-react": "^0.15.31",
+    "@solana/wallet-adapter-react-ui": "^0.9.30",
+    "@solana/wallet-adapter-wallets": "^0.19.15",
+    "@solana/wallet-standard": "^1.0.2",
+    "@solana/web3.js": "^1.74.0",
+    "@wallet-standard/core": "^1.0.3",
+    "@wallet-standard/experimental": "^0.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tweetnacl": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.2.1"
+  }
+}
