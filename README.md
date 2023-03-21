@@ -22,4 +22,5 @@ Then connect wallet.
 ![screenshot](https://github.com/256hax/solana-wallet-standard-minimal-example/blob/main/docs/screenshot.png?raw=true)
 
 ## Reference
-- [GitHub - wallet-standard/wallet-standard](https://github.com/wallet-standard/wallet-standard)
+- [wallet-standard/wallet-standard](https://github.com/wallet-standard/wallet-standard)
+- [solana-labs/wallet-standard - WALLET.md](https://github.com/solana-labs/wallet-standard/blob/master/WALLET.md)
